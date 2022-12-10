@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This website cam be used by students to help study the prework material learned in this bootcamp. By utilizing JavaScript functions, the website can randomly choose one topic the user should study first. To view this function, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics learned from the prework along with a suggestion on which topic to study first.
+This website can be used by students to help study the prework material learned in this bootcamp. By utilizing JavaScript functions, the website can randomly choose one topic the user should study first. To view this function, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics learned from the prework along with a suggestion on which topic to study first.
 
 ## Credits
 
